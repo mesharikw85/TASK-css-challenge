@@ -1,0 +1,28 @@
+.body {
+  background-color: purple;
+  text-align: center;
+  margin: auto;
+}
+
+img {
+  padding: 30px;
+
+  width: 22%;
+}
+
+.contain {
+  text-align: center;
+  line-height: 20px;
+}
+
+.head {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+  line-height: 60px;
+}
+
+.centtxt {
+  margin: 0 auto;
+  max-width: 950px;
+  text-align: center;
+}
